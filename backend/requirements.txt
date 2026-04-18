@@ -1,0 +1,14 @@
+flask>=3.0.0
+flask-cors>=4.0.0
+python-dotenv>=1.0.0
+pymongo>=4.6.0
+pyjwt>=2.8.0
+bcrypt>=4.1.0
+groq>=0.4.0
+elevenlabs>=1.0.0
+pypdf>=4.0.0
+python-docx>=1.1.0
+python-pptx>=0.6.23
+# Optional OCR support — install Tesseract + Poppler separately
+pytesseract>=0.3.10
+pdf2image>=1.17.0
